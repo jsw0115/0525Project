@@ -1,0 +1,40 @@
+@CHARSET "EUC-KR";
+body {
+  background-color: lightgrey;
+  text-align:center;
+}
+h2 {
+  background-color: black;
+  color: yellow;
+}
+
+div {
+  color: blue;
+}
+
+p {
+  color: yellow;
+}
+body {
+  color: #0000ff;
+}
+p.one {
+  border-style: solid;
+  border-width: 5px;
+}
+table{
+	width:auto;
+	border-collapse:collapse;
+	text-align:center;
+
+}
+td,th{
+	font-size:10pt;
+	border:1px solid #98bf21;
+	height:30px;
+	padding:5px;
+}
+th{
+	background-color:#A7c942;
+	color:white;
+}
